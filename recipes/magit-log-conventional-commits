@@ -1,0 +1,3 @@
+(magit-log-conventional-commits
+ :fetcher github
+ :repo "Giedriusj1/magit-log-conventional-commits")
